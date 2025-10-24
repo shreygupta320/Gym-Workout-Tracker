@@ -56,7 +56,7 @@ I'm always looking to improve this app. Some things I'm thinking about:
 
 ## Get in Touch
 
-If you have any questions, suggestions, or just want to chat about fitness and coding, feel free to reach out to me! You can find me at [your-email@example.com](mailto:utsavsonimrj@gmail.com).
+If you have any questions, suggestions, or just want to chat about fitness and coding, feel free to reach out to me! You can find me at [shreygupta320@gmail.com](mailto:shreygupta320@gmail.com).
 
 ## Thanks!
 
